@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidVideoEditor</string>
+    <string name="title">Видеоредактор</string>>
+
+    <string name="choose_video">Выбрать видео</string>
+    <string name="video_edit">Видео для редактирования</string>
+    <string name="video_edit_desc">Выберите или снимите видео, которое хотите отредактировать</string>
+
+    <string name="save">Сохранить</string>
+</resources>
